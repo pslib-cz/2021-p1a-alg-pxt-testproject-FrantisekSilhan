@@ -12,9 +12,7 @@
         "main.ts",
         "main.py"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "public": true,
     "targetVersions": {
         "target": "4.0.18",
